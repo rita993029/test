@@ -1,6 +1,8 @@
 package homework;
 
 public class Train implements Comparable<Train>{
+	test
+	
 	
 	private int number;
 	private String type;
