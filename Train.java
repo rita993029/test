@@ -7,6 +7,7 @@ public class Train implements Comparable<Train>{
 	private String start;
 	private String dest;
 	private double price;
+	private String catname;
 	
 	public void setNumber() {
 		this.number = number;
